@@ -1,0 +1,3 @@
+[submodule "vb"]
+	path = vb
+	url = https://github.com/sergzago/volleyball_scoreboard.git
